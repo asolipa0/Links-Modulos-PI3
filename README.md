@@ -1,4 +1,4 @@
-# Página de links dos Modulos PI1 - António Solipa
+# Página de links dos Modulos PI3 - António Solipa
 
 ![Imagem de resultado do projeto](./assets/Links.png)
 <br>
@@ -7,7 +7,7 @@
 
 ## 💻 Sobre
 
-Página de links, na propósta de ser usada para cosulta de modulos, feita para dilvulgar os modulosrealizados peloo aluno <a href="https://github.com/asolipa1">António Solipa</a>, atraves do conteudo apredido na Escola Profisional do Fundão.
+Página de links, na propósta de ser usada para cosulta de modulos, feita para dilvulgar os modulos realizados pelo aluno <a href="https://github.com/asolipa1">António Solipa</a>, atraves do conteudo apredido na Escola Profisional do Fundão.
 
 
 ## 🧠 Tecnologias
